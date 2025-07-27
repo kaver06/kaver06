@@ -11,8 +11,8 @@
 - Embedded C | STM32 | ESP32 | Arduino | Raspberry Pi
 - PCB Design (KiCAD, EasyEDA)
 - 3D Modelling (Fusion 360)
-- ROS 2 (Beginner) | Python | Image Processing
-- STM32CubeIDE | Mission Planner | CircuitJS
+- ROS 2 (Beginner) | Python | C++
+- STM32CubeIDE | Mission Planner | Proteus
 
 ---
 

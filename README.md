@@ -33,6 +33,10 @@
 ### 🔹 ANAV (IRoC-U 2025)
 > GPS-independent drone with LiDAR & IMU-based terrain analysis using Pixhawk 2.4.8.
 
+### 🔹 LANE
+> Road safety assist system for small vehicles during overtaking.  
+> Uses image processing and timers to indicate safe overtaking via visual cues on heavy vehicles.
+
 ### 🔹 PERCEPT
 > Glaucoma monitoring system using image processing & Raspberry Pi for non-invasive diagnosis.
 

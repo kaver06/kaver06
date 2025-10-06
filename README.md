@@ -27,6 +27,10 @@
 
 ## 📂 Highlight Projects
 
+### 🔹 [Autobot](https://github.com/kaver06/AUTOBOT)
+> An autonomous ground robot for campus navigation and delivery, featuring AprilTag-based localization, IMU–encoder odometry, and STM32–ESP32 coordination for line following, obstacle avoidance, and self-docking.
+  🧩 Developing as part of an intership completion project at Kaynes Technology (R&D Division, Mysuru)
+
 ### 🔹 [AGRO-X](https://github.com/kaver06/AGRO-X)
 > Smart IoT system for protecting crops using motion sensors, acoustic deterrents & soil monitoring.
 

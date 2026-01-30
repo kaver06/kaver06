@@ -18,7 +18,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 Winners, Hack Kshetra 2024 | Infothon 2.0 | TechX Robo Race Line Follower
+- 🥇 Winners,SIH 2025 Hardware Edition | Hack Kshetra 2024 | Infothon 2.0 | TechX Robo Race Line Follower
 - 🥈 IEEE Runtime 24 – 2nd Runner Up | JVTM 2024
 - 🛠️ Best Innovation - DronaAcharya 2.0
 - 🏁 SIH 2024 Hardware Finalist | EUREKA'24 Zonal Qualifier – IIT Bombay
